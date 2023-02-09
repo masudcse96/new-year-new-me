@@ -124,8 +124,8 @@ body{
     width: 70vw;
     height: 200px;
     background-image:
-    url("/images/gradient1.png"),
-    url("/images/watch.png");
+    url("../images/gradient1.png"),
+    url("../images/watch.png");
     background-blend-mode: multiply;
     opacity: 1;
     background-repeat: no-repeat;
