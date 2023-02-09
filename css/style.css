@@ -194,4 +194,10 @@ body{
     border-radius: 5px;
     font-weight: bold;
 }
+.copy-write{
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
 /* footer section End*/
